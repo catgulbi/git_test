@@ -2,3 +2,4 @@ Hello world!
 Bye world!
 One more test!
 Once more!
+Let's edit at the remote repository.
